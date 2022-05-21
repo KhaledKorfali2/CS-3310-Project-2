@@ -1,0 +1,203 @@
+totalTimeDijkstra: 152.000000
+lineCountKijkstra: 1
+averageDijkstra: 152.000000
+totalTimeFloyedWarshall: 64.000000
+lineCountFloyedWarshall: 1
+averageFloyedWarshall: 64.000000
+-----------------------------------------------------------
+totalTimeDijkstra: 415.000000
+lineCountKijkstra: 2
+averageDijkstra: 207.500000
+totalTimeFloyedWarshall: 183.000000
+lineCountFloyedWarshall: 2
+averageFloyedWarshall: 91.500000
+-----------------------------------------------------------
+totalTimeDijkstra: 571.000000
+lineCountKijkstra: 3
+averageDijkstra: 190.333328
+totalTimeFloyedWarshall: 245.000000
+lineCountFloyedWarshall: 3
+averageFloyedWarshall: 81.666664
+-----------------------------------------------------------
+totalTimeDijkstra: 741.000000
+lineCountKijkstra: 4
+averageDijkstra: 185.250000
+totalTimeFloyedWarshall: 307.000000
+lineCountFloyedWarshall: 4
+averageFloyedWarshall: 76.750000
+-----------------------------------------------------------
+totalTimeDijkstra: 905.000000
+lineCountKijkstra: 5
+averageDijkstra: 181.000000
+totalTimeFloyedWarshall: 365.000000
+lineCountFloyedWarshall: 5
+averageFloyedWarshall: 73.000000
+-----------------------------------------------------------
+totalTimeDijkstra: 1089.000000
+lineCountKijkstra: 6
+averageDijkstra: 181.500000
+totalTimeFloyedWarshall: 2104.000000
+lineCountFloyedWarshall: 6
+averageFloyedWarshall: 350.666656
+-----------------------------------------------------------
+totalTimeDijkstra: 1255.000000
+lineCountKijkstra: 7
+averageDijkstra: 179.285721
+totalTimeFloyedWarshall: 3892.000000
+lineCountFloyedWarshall: 7
+averageFloyedWarshall: 556.000000
+-----------------------------------------------------------
+totalTimeDijkstra: 3551.000000
+lineCountKijkstra: 8
+averageDijkstra: 443.875000
+totalTimeFloyedWarshall: 5061.000000
+lineCountFloyedWarshall: 8
+averageFloyedWarshall: 632.625000
+-----------------------------------------------------------
+totalTimeDijkstra: 6168.000000
+lineCountKijkstra: 9
+averageDijkstra: 685.333313
+totalTimeFloyedWarshall: 6458.000000
+lineCountFloyedWarshall: 9
+averageFloyedWarshall: 717.555542
+-----------------------------------------------------------
+totalTimeDijkstra: 8352.000000
+lineCountKijkstra: 10
+averageDijkstra: 835.200012
+totalTimeFloyedWarshall: 8088.000000
+lineCountFloyedWarshall: 10
+averageFloyedWarshall: 808.799988
+-----------------------------------------------------------
+totalTimeDijkstra: 10845.000000
+lineCountKijkstra: 11
+averageDijkstra: 985.909119
+totalTimeFloyedWarshall: 9276.000000
+lineCountFloyedWarshall: 11
+averageFloyedWarshall: 843.272705
+-----------------------------------------------------------
+totalTimeDijkstra: 13126.000000
+lineCountKijkstra: 12
+averageDijkstra: 1093.833374
+totalTimeFloyedWarshall: 10766.000000
+lineCountFloyedWarshall: 12
+averageFloyedWarshall: 897.166687
+-----------------------------------------------------------
+totalTimeDijkstra: 15404.000000
+lineCountKijkstra: 13
+averageDijkstra: 1184.923096
+totalTimeFloyedWarshall: 12258.000000
+lineCountFloyedWarshall: 13
+averageFloyedWarshall: 942.923096
+-----------------------------------------------------------
+totalTimeDijkstra: 18003.000000
+lineCountKijkstra: 14
+averageDijkstra: 1285.928589
+totalTimeFloyedWarshall: 13382.000000
+lineCountFloyedWarshall: 14
+averageFloyedWarshall: 955.857117
+-----------------------------------------------------------
+totalTimeDijkstra: 19696.000000
+lineCountKijkstra: 15
+averageDijkstra: 1313.066650
+totalTimeFloyedWarshall: 14629.000000
+lineCountFloyedWarshall: 15
+averageFloyedWarshall: 975.266663
+-----------------------------------------------------------
+totalTimeDijkstra: 22303.000000
+lineCountKijkstra: 16
+averageDijkstra: 1393.937500
+totalTimeFloyedWarshall: 16229.000000
+lineCountFloyedWarshall: 16
+averageFloyedWarshall: 1014.312500
+-----------------------------------------------------------
+totalTimeDijkstra: 24204.000000
+lineCountKijkstra: 17
+averageDijkstra: 1423.764648
+totalTimeFloyedWarshall: 17706.000000
+lineCountFloyedWarshall: 17
+averageFloyedWarshall: 1041.529419
+-----------------------------------------------------------
+totalTimeDijkstra: 25880.000000
+lineCountKijkstra: 18
+averageDijkstra: 1437.777832
+totalTimeFloyedWarshall: 18962.000000
+lineCountFloyedWarshall: 18
+averageFloyedWarshall: 1053.444458
+-----------------------------------------------------------
+totalTimeDijkstra: 32296.000000
+lineCountKijkstra: 20
+averageDijkstra: 1614.800049
+totalTimeFloyedWarshall: 21791.000000
+lineCountFloyedWarshall: 20
+averageFloyedWarshall: 1089.550049
+-----------------------------------------------------------
+totalTimeDijkstra: 34826.000000
+lineCountKijkstra: 21
+averageDijkstra: 1658.380981
+totalTimeFloyedWarshall: 22914.000000
+lineCountFloyedWarshall: 21
+averageFloyedWarshall: 1091.142822
+-----------------------------------------------------------
+totalTimeDijkstra: 40496.000000
+lineCountKijkstra: 23
+averageDijkstra: 1760.695679
+totalTimeFloyedWarshall: 3033758.000000
+lineCountFloyedWarshall: 22
+averageFloyedWarshall: 137898.093750
+-----------------------------------------------------------
+totalTimeDijkstra: 42294.000000
+lineCountKijkstra: 24
+averageDijkstra: 1762.250000
+totalTimeFloyedWarshall: 3035222.000000
+lineCountFloyedWarshall: 23
+averageFloyedWarshall: 131966.171875
+-----------------------------------------------------------
+totalTimeDijkstra: 44359.000000
+lineCountKijkstra: 25
+averageDijkstra: 1774.359985
+totalTimeFloyedWarshall: 3037208.000000
+lineCountFloyedWarshall: 24
+averageFloyedWarshall: 126550.335938
+-----------------------------------------------------------
+totalTimeDijkstra: 46701.000000
+lineCountKijkstra: 26
+averageDijkstra: 1796.192261
+totalTimeFloyedWarshall: 3038920.000000
+lineCountFloyedWarshall: 25
+averageFloyedWarshall: 121556.796875
+-----------------------------------------------------------
+totalTimeDijkstra: 49062.000000
+lineCountKijkstra: 27
+averageDijkstra: 1817.111084
+totalTimeFloyedWarshall: 3039970.000000
+lineCountFloyedWarshall: 26
+averageFloyedWarshall: 116921.921875
+-----------------------------------------------------------
+totalTimeDijkstra: 51712.000000
+lineCountKijkstra: 28
+averageDijkstra: 1846.857178
+totalTimeFloyedWarshall: 3041343.000000
+lineCountFloyedWarshall: 27
+averageFloyedWarshall: 112642.335938
+-----------------------------------------------------------
+totalTimeDijkstra: 55200.000000
+lineCountKijkstra: 29
+averageDijkstra: 1903.448242
+totalTimeFloyedWarshall: 3042490.000000
+lineCountFloyedWarshall: 28
+averageFloyedWarshall: 108660.359375
+-----------------------------------------------------------
+totalTimeDijkstra: 57809.000000
+lineCountKijkstra: 30
+averageDijkstra: 1926.966675
+totalTimeFloyedWarshall: 3044146.000000
+lineCountFloyedWarshall: 29
+averageFloyedWarshall: 104970.554688
+-----------------------------------------------------------
+totalTimeDijkstra: 58376.000000
+lineCountKijkstra: 31
+averageDijkstra: 1883.096802
+totalTimeFloyedWarshall: 3044273.000000
+lineCountFloyedWarshall: 30
+averageFloyedWarshall: 101475.765625
+-----------------------------------------------------------
